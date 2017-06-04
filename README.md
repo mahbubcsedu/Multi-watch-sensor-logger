@@ -1,5 +1,5 @@
 # MediaLoggerWearApp
-This app is in developing phase which will record audio, sensor data (mainly type_vector_rotation, type_accelerometer, type_gyroscope) and will store to database ( in wear, at host mobile, in a remote server or even streaming using socket service).
+This app is in developing phase which will record audio, sensor data (mainly type_vector_rotation, type_accelerometer, type_gyroscope) and will store to database ( in wear, at host mobile, in a remote server or even streaming using socket service). This app uses the concept and base code from [WCL](https://github.com/googlesamples/android-WclDemoSample)
 ## Dependencies
 * [WearCompanionLibrary (WCL)](https://github.com/googlesamples/android-WearCompanionLibrary)
 * The phone module also depends on the [design support library](http://android-developers.blogspot.com/2015/05/android-design-support-library.html).
