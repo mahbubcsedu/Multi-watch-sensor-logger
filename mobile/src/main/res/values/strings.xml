@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2015 Google Inc. All Rights Reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ imitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">MediaLogger Mobile</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nav_open_on_watch">Open On Watch</string>
+    <string name="nav_open_main_menu">Intro</string>
+    <string name="nav_open_voice_file">Sync Audio</string>
+    <string name="clear_text">Clear Text</string>
+    <string name="clear_image">Clear Image</string>
+    <string name="text_file_here">Transferred text file will appear here ...</string>
+    <string name="intro">This is main page. Select your targeted page from drawer and also select from list in wear app the same thing which is relavent to this.
+    </string>
+    <string name="api_client_not_connected">Google Api Client is not connected!</string>
+    <string name="no_wearable_device">No wearable device with the requested capability was found!
+    </string>
+    <string name="failed_to_launch_wear_app">Failed to launch the wearable app!</string>
+    <string name="main_intro">A simple app to demonstrate some of the features in the Wear Companion
+        Library. You can drive this from both your phone or your wear device. On your mobile, select
+        a page from the drawer.\n\nOn any mobile page, you can open the corresponding page on your
+        wear device by pressing on the FAB button at the lower right corner of the page.
+    </string>
+    <string name="data_exchange_intro">Below we track the information about the page that the wear
+        app is currently showing. As you navigate through the wear app, the information below will
+        change using the MessageApi calls.
+    </string>
+    <string name="voice_intro">You can listen to the MIC output streamed frm your wear device
+    </string>
+    <string name="nav_open_voice_stream">Voice Stream</string>
+    <string name="voice_stream_ended">Incoming Voice Ended</string>
+    <string name="voice_stream_started">Incoming Voice Started</string>
+
+
+    <string name="action_licenses">Licenses</string>
+
+    <string name="tab_title_record">Record</string>
+    <string name="tab_title_saved_recordings">Saved Recordings</string>
+
+    <!-- Toasts -->
+    <string name="toast_recording_start">Recording started</string>
+    <string name="toast_recording_finish">Recording saved to</string>
+    <string name="toast_file_delete">%1$s successfully deleted</string>
+    <string name="toast_file_exists">The file %1$s already exists. Please choose a different file name.</string>
+
+    <!-- Notifications -->
+    <string name="notification_recording">Recording...</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_title_delete">Confirm Delete...</string>
+    <string name="dialog_text_delete">Are you sure you would like to delete this file?</string>
+    <string name="dialog_title_licenses">Open Source Licenses</string>
+    <string name="dialog_title_share">Share File</string>
+    <string name="dialog_title_rename">Rename File</string>
+    <string name="dialog_title_options">Options</string>
+
+    <string name="dialog_file_share">Share File</string>
+    <string name="dialog_file_rename">Rename File</string>
+    <string name="dialog_file_delete">Delete File</string>
+    <string name="dialog_action_cancel">Cancel</string>
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_yes">Yes</string>
+    <string name="dialog_action_no">No</string>
+
+    <string name="no_saved_recordings_message">No saved recordings</string>
+    <string name="pause_recording_button">Pause</string>
+    <string name="resume_recording_button">Resume</string>
+    <string name="default_file_name">My Recording</string>
+    <string name="record_prompt">Tap the button to start recording</string>
+    <string name="record_in_progress">Recording</string>
+
+    <string name="send_to">Send to</string>
+
+    <string name="nav_open_voice_play">Play sound</string>
+
+</resources>

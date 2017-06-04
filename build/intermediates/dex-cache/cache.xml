@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/.android/build-cache/f450f31e97cd5b5f536423affbe0f3c4df1437e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dfd0a9d918007a3751821507782de22d6f93c0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/.android/build-cache/287626fdc4856b29369941c0002cdd866918607d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05c885b51a633bb71552e870122b87d61cda079e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/Downloads/android-WclDemoSample-master/wear/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7911dededfa173a8e888f07dfb3cd56348653b24">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/wear/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_60c1e2187a2dec1e48c724180c5721077230ab61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/.android/build-cache/109527ee61312ea079ed83fdffe80d8bd555b383/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2f7e6bea6b18da15816798c724780746b84b1fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/.android/build-cache/e76f3a979caa08df98d442fe2adf11e99e194cb7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbbd3fe21ac982fc1aff85e375e7560f388503ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/.android/build-cache/2f9ba869e68061eae16865fd39190c1ab69d8762/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18afec314caa4b241494050ed15aa008f9344184/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9d73a4df7d02aee0a0a57031f8bed30ecb4b896">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e0e711b9f72e276aff4e9e23f5b7b120c4b70d83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/.android/build-cache/e489ee7b0a86bcdc30c4f7f3b7436fb308f50828/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a38f4ef74ee94e169a2794404dbef08de32210a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/Downloads/android-WclDemoSample-master/wear/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/wear/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e8602628253ba29f1abe40a14d84ec2cd0005354/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/.android/build-cache/34fb5755ed4d5e30820210e45b0ff18b1a39fb75/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fba362e68a4283dbd3861347da9e978f85702f76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/.android/build-cache/8c9497aa95ddcc538efaa2063ab415bd4d0a9e4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce1401b63e78994648a3519c4e1b0f6245c18849/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ceb12b2aa0f21fbd0be060d2222eb4e03d5daaa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/.android/build-cache/fd54d373b0739b2ed029d084aa10ecdeef0ed381/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c8f0d8ca87eb548a115fdea04b16918d554e61d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/.android/build-cache/50a040eff5642f0f255c83ce74b82d2c6dc7c06f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fa4a8f921bcc02228c338a1cd17b55e70efd82d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/.android/build-cache/6f51961eedda99ea524e1c29f805dee761a75617/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ecd559326cd3cb82ed8179808657a3f20e502121/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/android-sdks/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_6d359505b73e5cc9a49b6ca7fff27b27dc80ab81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/.android/build-cache/a24b7805055edcede0c978e371e8a1a75cd91653/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ef3722cd1467e57f312a6433ee68af4e39ffebd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mahbub/.android/build-cache/010a129c0174afd6d1c4d8344ff346aa2e84efc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/mahbub/Downloads/android-WclDemoSample-master/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53c09624c243c3141c04ff1ae84ad8fa958013df/classes.dex" />
+    </item>
+
+</items>
