@@ -10,7 +10,7 @@ This app is in developing phase which will record audio, sensor data (mainly typ
 ## Setup
 * Checkout this project as MediaLoggerWearApp:
 ```
-$ git clone https://mahbubcsedu@bitbucket.org/mahbubcsedu/medialoggerwearapp.git MediaLoggerWearApp
+$ git clone https://github.com/mahbubcsedu/Multi-watch-sensor-logger.git
 ```
 * To make sure all is working, compile WCL:
 ```
