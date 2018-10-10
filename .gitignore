@@ -5,7 +5,7 @@ testimages/
 weedimages/
 weedtestdb/
 gen/
-
+build/
 # Compiled source #
 ###################
 *.com
@@ -16,6 +16,8 @@ gen/
 *.so
 *.settings
 *.svn
+.gradle/
+.idea
 
 # Packages #
 ############
